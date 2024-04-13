@@ -129,3 +129,11 @@ input[type="text"] {
 .mapa {
   height: 200px;
 }
+.divParadas {
+  max-width: 300px;
+  max-height: 800px;
+  overflow: auto;
+}
+.negrita {
+  font-weight: bold;
+}
